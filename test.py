@@ -1,1 +1,1 @@
-print("PR trigger test 2")
+print("PR trigger test 1")
