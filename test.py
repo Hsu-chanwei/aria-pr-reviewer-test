@@ -1,1 +1,1 @@
-print("PR trigger test 2")
+print("auto pipeline test 2")
